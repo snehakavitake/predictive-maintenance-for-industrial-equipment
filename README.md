@@ -1,0 +1,1 @@
+# predictive-maintenance-for-industrial-equipment
